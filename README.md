@@ -1,5 +1,20 @@
-# Black Hole Animation
-Black Hole animation script, that follow your mouse pointer, just copy and past on your browser console.
+# Black Hole 3D Animation Script
+
+Features:
+
+Responsive design: Automatically adapts to the user's screen size.
+
+Lightweight: No external libraries or dependencies required.
+
+Smooth animation: High-quality gravitational pull effect using HTML5 Canvas.
+
+Mouse-controlled center of attraction: The black hole's center of attraction follows the user's mouse cursor.
+
+Usage:
+
+Copy and paste the provided script into your Devtools console in any page. Enjoy the 3D black hole animation on your webpage, with particles being attracted to the mouse cursor!
+
+Script:
 
 ```
 (function() {
