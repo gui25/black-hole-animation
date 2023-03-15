@@ -1,7 +1,7 @@
 # Black Hole Animation
 Black Hole animation script, that follow your mouse pointer, just copy and past on your browser console.
 
-'''
+```
 (function() {
   const canvas = document.createElement('canvas');
   canvas.id = 'canvasBlackHole';
@@ -78,4 +78,4 @@ Black Hole animation script, that follow your mouse pointer, just copy and past 
 
   toggleAnimation();
 })();
-'''
+```
